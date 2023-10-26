@@ -52,3 +52,20 @@ button:hover{
     background-color: rgb(224, 97, 12);
     color: antiquewhite;
 }
+
+
+
+    
+@media  screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+    #cellSection{
+        margin-left: 20%;
+     }
+ 
+     
+}
+
+
+
